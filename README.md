@@ -1,6 +1,6 @@
 # Bem vindo(a) - Siga abaixo instruções para execução do projeto
 
-1 - Utilize em seu terminal o comando `git clone https://github.com/zagob/aplicacao-reactjs.git`
+1 - Utilize em seu terminal o comando `git clone https://github.com/zagob/aplicacao-nextjs.git`
 
 2 - Em seguida entre na pasta e execute `yarn` ou `npm install` para instalação das dependências
 
